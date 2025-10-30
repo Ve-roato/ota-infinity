@@ -1,0 +1,8 @@
+Device: CMF Phone (1)
+Device code name : tetris
+Device maintainer: Sofia
+
+Date - 30/10/2025
+=================
+
+-Added OTA Support
