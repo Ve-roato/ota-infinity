@@ -2,7 +2,7 @@ Device: CMF Phone (1)
 Device code name : tetris
 Device maintainer: Sofia
 
-Date - 01/11/2025
+Date - 02/11/2025
 =================
 
--Update to InfinityX 3.4
+Try to fix Fingerprint issue
