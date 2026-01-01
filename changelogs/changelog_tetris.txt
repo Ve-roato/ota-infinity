@@ -2,7 +2,14 @@ Device: CMF Phone (1)
 Device code name : tetris
 Device maintainer: Sofia
 
-Date - 02/11/2025
+Date - 01/01/2026
 =================
 
-Try to fix Fingerprint issue
+- Updated to InfinityX 3.6
+- Powerhint modified for better performances (Thanks to Ashwani)
+- Fixed vibrator dying when plugging the phone to charge
+- Made vibration stronger
+- Fixed fingerprint flashbang
+- Added other GPU Optimizations
+- Fixed Over-saturation
+- And other miscellaneous fixes
