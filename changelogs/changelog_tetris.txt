@@ -5,11 +5,4 @@ Device maintainer: Sofia
 Date - 01/01/2026
 =================
 
-- Updated to InfinityX 3.6
-- Powerhint modified for better performances (Thanks to Ashwani)
-- Fixed vibrator dying when plugging the phone to charge
-- Made vibration stronger
-- Fixed fingerprint flashbang
-- Added other GPU Optimizations
-- Fixed Over-saturation
-- And other miscellaneous fixes
+- Latest Source Sync
